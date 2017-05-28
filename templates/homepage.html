@@ -1,0 +1,129 @@
+{% extends 'generic.html' %}
+{% load static %}
+
+{% block content %}
+
+
+    <div class="container">
+        <ul class="nav nav-pills">
+            <li class="active noround"><a data-toggle="pill" href="#home">Orar</a></li>
+            <li class="noround"><a data-toggle="pill" href="#menu1">Profesori</a></li>
+            <li class="noround"><a data-toggle="pill" href="#menu2">Sali</a></li>
+        </ul>
+
+        <div class="tab-content">
+            <div id="home" class="tab-pane fade in active">
+                <table class="table table-bordered table-striped table-hover">
+                    <thead>
+                    <tr class="table-head">
+                        <th class="col-md-1">incepe</th>
+                        <th class="col-md-1">termina</th>
+                        <th class="col-md-3">Titlu</th>
+                        <th class="col-md-4">Profesor</th>
+                        <th class="col-md-1">Sala</th>
+                        <th class="col-md-1"></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th colspan="7">>Luni</th>
+                    </tr>
+
+                    {% for event in events1 %}
+                        <tr>
+                            <th scope="row"> {{ event.start_hour }} </th>
+                            <td>{{ event.end_hour }}</td>
+                            <td>{{ event.title }}</td>
+                            <td>{{ event.profesor.nume }}</td>
+                            <td>{{ event.sala.room_number }}</td>
+                            <td>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="glyphicon glyphicon-plus"></i>
+                                </button>
+                            </td>
+                        </tr>
+
+                    {% endfor %}
+
+                    <tr>
+                        <th colspan="7">>Marti</th>
+                    </tr>
+                    {% for event in events2 %}
+                        <tr>
+                            <th scope="row"> {{ event.start_hour }} </th>
+                            <td>{{ event.end_hour }}</td>
+                            <td>{{ event.title }}</td>
+                            <td>{{ event.profesor.nume }}</td>
+                            <td>{{ event.sala.room_number }}</td>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="glyphicon glyphicon-plus"></i>
+                            </button>
+                        </tr>
+
+                    {% endfor %}
+
+                    <tr>
+                        <th colspan="7">>Miercuri</th>
+                    </tr>
+                    {% for event in events3 %}
+                        <tr>
+                            <th scope="row"> {{ event.start_hour }} </th>
+                            <td>{{ event.end_hour }}</td>
+                            <td>{{ event.title }}</td>
+                            <td>{{ event.profesor.nume }}</td>
+                            <td>{{ event.sala.room_number }}</td>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="glyphicon glyphicon-plus"></i>
+                            </button>
+                        </tr>
+
+                    {% endfor %}
+                    <tr>
+                        <th colspan="7">>Joi</th>
+                    </tr>
+                    {% for event in events4 %}
+                        <tr>
+                            <th scope="row"> {{ event.start_hour }} </th>
+                            <td>{{ event.end_hour }}</td>
+                            <td>{{ event.title }}</td>
+                            <td>{{ event.profesor.nume }}</td>
+                            <td>{{ event.sala.room_number }}</td>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="glyphicon glyphicon-plus"></i>
+                            </button>
+                        </tr>
+
+                    {% endfor %}
+                    <tr>
+                        <th colspan="7">>Vineri</th>
+                    </tr>
+                    {% for event in events5 %}
+                        <tr>
+                            <th scope="row"> {{ event.start_hour }} </th>
+                            <td>{{ event.end_hour }}</td>
+                            <td>{{ event.title }}</td>
+                            <td>{{ event.profesor.nume }}</td>
+                            <td>{{ event.sala.room_number }}</td>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="glyphicon glyphicon-plus"></i>
+                            </button>
+                        </tr>
+
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div id="menu1" class="tab-pane fade">
+                {% for teacher in teachers %}
+                    <p>{{ teacher.nume }}</p>
+                {% endfor %}
+            </div>
+            <div id="menu2" class="tab-pane fade">
+                {% for room in rooms %}
+                    <p>{{ room.room_number }}</p>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

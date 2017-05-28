@@ -1,0 +1,10 @@
+{% extends 'generic.html' %}
+{% load static %}
+
+{% block content %}
+
+{% for event in events %}
+    {{  event.title }}
+{% endfor %}
+
+{% endblock %}
