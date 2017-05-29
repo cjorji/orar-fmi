@@ -16,9 +16,16 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from orar import views
+from django.contrib.auth import views as auth_views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^my_events/$', views.view_my_events),
+    url(r'^parse/$', views.parser),
+
     url(r'^$', views.all_group_events),
+    url(r'^add_event/(?P<event_id>\d+)/$', views.add_event_to_user),
+    url(r'^remove_event/(?P<event_id>\d+)/$', views.remove_event_from_user),
+    url(r'^logout/$', auth_views.logout, {'next_page': '/'}, name='logout'),
+    url(r'^login/', auth_views.login, name='login'),
 ]

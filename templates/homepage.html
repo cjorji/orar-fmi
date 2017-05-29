@@ -5,10 +5,20 @@
 
 
     <div class="container">
+        {% if weekType == 1 %}
+            Tip saptamana: Para
+        {% else %}
+            Tip saptamana: Impara
+        {% endif %}
         <ul class="nav nav-pills">
+
             <li class="active noround"><a data-toggle="pill" href="#home">Orar</a></li>
+            <li class="noround"><a data-toggle="pill" href="#menu3">Astazi</a></li>
+
             <li class="noround"><a data-toggle="pill" href="#menu1">Profesori</a></li>
             <li class="noround"><a data-toggle="pill" href="#menu2">Sali</a></li>
+
+
         </ul>
 
         <div class="tab-content">
@@ -31,15 +41,18 @@
 
                     {% for event in events1 %}
                         <tr>
-                            <th scope="row"> {{ event.start_hour }} </th>
-                            <td>{{ event.end_hour }}</td>
-                            <td>{{ event.title }}</td>
-                            <td>{{ event.profesor.nume }}</td>
-                            <td>{{ event.sala.room_number }}</td>
+                            <th {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} scope="row"> {{ event.start_hour }} </th>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.end_hour }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.title }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.profesor.nume }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.sala.room_number }}</td>
                             <td>
-                                <button type="submit" class="btn btn-primary">
-                                    <i class="glyphicon glyphicon-plus"></i>
-                                </button>
+                                <a href="/add_event/{{ event.id }}">
+
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                    </button>
+                                </a>
                             </td>
                         </tr>
 
@@ -50,14 +63,19 @@
                     </tr>
                     {% for event in events2 %}
                         <tr>
-                            <th scope="row"> {{ event.start_hour }} </th>
-                            <td>{{ event.end_hour }}</td>
-                            <td>{{ event.title }}</td>
-                            <td>{{ event.profesor.nume }}</td>
-                            <td>{{ event.sala.room_number }}</td>
-                            <button type="submit" class="btn btn-primary">
-                                <i class="glyphicon glyphicon-plus"></i>
-                            </button>
+                            <th scope="row" {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}> {{ event.start_hour }} </th>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.end_hour }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.title }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.profesor.nume }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.sala.room_number }}</td>
+                            <td>
+                                <a href="/add_event/{{ event.id }}">
+
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                    </button>
+                                </a>
+                            </td>
                         </tr>
 
                     {% endfor %}
@@ -67,14 +85,19 @@
                     </tr>
                     {% for event in events3 %}
                         <tr>
-                            <th scope="row"> {{ event.start_hour }} </th>
-                            <td>{{ event.end_hour }}</td>
-                            <td>{{ event.title }}</td>
-                            <td>{{ event.profesor.nume }}</td>
-                            <td>{{ event.sala.room_number }}</td>
-                            <button type="submit" class="btn btn-primary">
-                                <i class="glyphicon glyphicon-plus"></i>
-                            </button>
+                            <th {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} scope="row"> {{ event.start_hour }} </th>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} >{{ event.end_hour }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} >{{ event.title }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} >{{ event.profesor.nume }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} >{{ event.sala.room_number }}</td>
+                            <td>
+                                <a href="/add_event/{{ event.id }}">
+
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                    </button>
+                                </a>
+                            </td>
                         </tr>
 
                     {% endfor %}
@@ -83,36 +106,48 @@
                     </tr>
                     {% for event in events4 %}
                         <tr>
-                            <th scope="row"> {{ event.start_hour }} </th>
-                            <td>{{ event.end_hour }}</td>
-                            <td>{{ event.title }}</td>
-                            <td>{{ event.profesor.nume }}</td>
-                            <td>{{ event.sala.room_number }}</td>
-                            <button type="submit" class="btn btn-primary">
-                                <i class="glyphicon glyphicon-plus"></i>
-                            </button>
+                            <th {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} scope="row"> {{ event.start_hour }} </th>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} >{{ event.end_hour }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.title }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.profesor.nume }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.sala.room_number }}</td>
+                            <td>
+                                <a href="/add_event/{{ event.id }}">
+
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                    </button>
+                                </a>
+                            </td>
                         </tr>
 
                     {% endfor %}
                     <tr>
-                        <th colspan="7">>Vineri</th>
+                        <th colspan="7">Vineri</th>
                     </tr>
                     {% for event in events5 %}
                         <tr>
-                            <th scope="row"> {{ event.start_hour }} </th>
-                            <td>{{ event.end_hour }}</td>
-                            <td>{{ event.title }}</td>
-                            <td>{{ event.profesor.nume }}</td>
-                            <td>{{ event.sala.room_number }}</td>
-                            <button type="submit" class="btn btn-primary">
-                                <i class="glyphicon glyphicon-plus"></i>
-                            </button>
+                            <th {% if event.weekly == True %} class="success" {{ user.username }} {% endif %} scope="row"> {{ event.start_hour }} </th>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.end_hour }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.title }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.profesor.nume }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.sala.room_number }}</td>
+                            <td>
+                                <a href="/add_event/{{ event.id }}">
+
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                    </button>
+                                </a>
+                            </td>
                         </tr>
 
                     {% endfor %}
                     </tbody>
                 </table>
             </div>
+
+
             <div id="menu1" class="tab-pane fade">
                 {% for teacher in teachers %}
                     <p>{{ teacher.nume }}</p>
@@ -122,6 +157,41 @@
                 {% for room in rooms %}
                     <p>{{ room.room_number }}</p>
                 {% endfor %}
+            </div>
+            <div id="menu3" class="tab-pane fade">
+                <table class="table table-bordered table-striped table-hover">
+                    <thead>
+                    <tr class="table-head">
+                        <th class="col-md-1">incepe</th>
+                        <th class="col-md-1">termina</th>
+                        <th class="col-md-3">Titlu</th>
+                        <th class="col-md-4">Profesor</th>
+                        <th class="col-md-1">Sala</th>
+                        <th class="col-md-1"></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    {% for event in currentDay %}
+                        <tr>
+                            <th scope="row"  {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}> {{ event.start_hour }} </th>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.end_hour }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.title }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.profesor.nume }}</td>
+                            <td {% if event.weekly == True %} class="success" {{ user.username }} {% endif %}>{{ event.sala.room_number }}</td>
+                            <td>
+                                <a href="/add_event/{{ event.id }}">
+
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="glyphicon glyphicon-plus"></i>
+                                    </button>
+                                </a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+
             </div>
         </div>
     </div>

@@ -1,0 +1,539 @@
+<table cellpadding="0" cellspacing="0" class="t6">
+<tr>
+<td class="tr0 td191"><p class="p5 ft3"> </p></td>
+<td class="tr0 td465"><p class="p10 ft2">8</p></td>
+<td class="tr0 td466"><p class="p5 ft3"> </p></td>
+<td class="tr0 td11"><p class="p3 ft2">9</p></td>
+<td class="tr0 td2665"><p class="p14 ft2">10</p></td>
+<td class="tr0 td8"><p class="p5 ft3"> </p></td>
+<td class="tr0 td92"><p class="p10 ft2">11</p></td>
+<td class="tr0 td92"><p class="p10 ft2">12</p></td>
+<td class="tr0 td2775"><p class="p5 ft3"> </p></td>
+<td class="tr0 td2776"><p class="p4 ft2">13</p></td>
+<td class="tr0 td92"><p class="p10 ft2">14</p></td>
+<td class="tr0 td2329"><p class="p5 ft3"> </p></td>
+<td class="tr0 td2330"><p class="p10 ft2">15</p></td>
+<td class="tr0 td92"><p class="p10 ft2">16</p></td>
+<td class="tr0 td91"><p class="p5 ft3"> </p></td>
+<td class="tr0 td2330"><p class="p4 ft2">17</p></td>
+<td class="tr0 td2"><p class="p36 ft2">18</p></td>
+<td class="tr0 td195"><p class="p4 ft2">19</p></td>
+</tr>
+<tr>
+<td class="tr1 td199"><p class="p5 ft5"> </p></td>
+<td class="tr1 td475"><p class="p82 ft4">8:00 - 8:50</p></td>
+<td class="tr1 td476"><p class="p5 ft5"> </p></td>
+<td class="tr1 td24"><p class="p10 ft4">9:00 - 9:50</p></td>
+<td class="tr1 td2667"><p class="p133 ft4">10:00 - 10:50</p></td>
+<td class="tr1 td21"><p class="p5 ft5"> </p></td>
+<td class="tr1 td102"><p class="p12 ft4">11:00 - 11:50</p></td>
+<td class="tr1 td102"><p class="p4 ft4">12:00 - 12:50</p></td>
+<td class="tr1 td2777"><p class="p5 ft5"> </p></td>
+<td class="tr1 td2778"><p class="p12 ft4">13:00 - 13:50</p></td>
+<td class="tr1 td102"><p class="p12 ft4">14:00 - 14:50</p></td>
+<td class="tr1 td1244"><p class="p5 ft5"> </p></td>
+<td class="tr1 td2333"><p class="p4 ft4">15:00 - 15:50</p></td>
+<td class="tr1 td102"><p class="p4 ft4">16:00 - 16:50</p></td>
+<td class="tr1 td101"><p class="p5 ft5"> </p></td>
+<td class="tr1 td2333"><p class="p12 ft4">17:00 - 17:50</p></td>
+<td class="tr1 td15"><p class="p4 ft4">18:00 - 18:50</p></td>
+<td class="tr1 td201"><p class="p12 ft4">19:00 - 19:50</p></td>
+</tr>
+<tr>
+<td class="tr21 td205"><p class="p5 ft3"> </p></td>
+<td class="tr21 td118"><p class="p5 ft3"> </p></td>
+<td class="tr21 td490"><p class="p5 ft3"> </p></td>
+<td class="tr21 td62"><p class="p5 ft3"> </p></td>
+<td class="tr21 td3213" colspan="3"><p class="p16 ft7">Gramatovici R</p></td>
+<td class="tr21 td3350" colspan="2"><p class="p52 ft7">Mitre L</p></td>
+<td class="tr21 td3351"><p class="p5 ft3"> </p></td>
+<td class="tr21 td3217" colspan="2"><p class="p47 ft7">Georgescu Gi</p></td>
+<td class="tr21 td2996"><p class="p5 ft3"> </p></td>
+<td class="tr21 td3352" colspan="2"><p class="p52 ft7">Titiu R</p></td>
+<td class="tr21 td3353"><p class="p5 ft3"> </p></td>
+<td class="tr21 td54"><p class="p5 ft3"> </p></td>
+<td class="tr21 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr57 td205" rowspan="4"><p class="p57 ft8">Lu</p></td>
+<td class="tr16 td118"><p class="p5 ft3"> </p></td>
+<td class="tr16 td490"><p class="p5 ft3"> </p></td>
+<td class="tr16 td62"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3228"><p class="p5 ft3"> </p></td>
+<td class="tr16 td2985"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3117"><p class="p5 ft3"> </p></td>
+<td class="tr16 td1590"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3354"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3351"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3052"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3027"><p class="p5 ft3"> </p></td>
+<td class="tr16 td2996"><p class="p5 ft3"> </p></td>
+<td class="tr16 td3355" colspan="3"><p class="p53 ft9">Cript&amp;Securitate;</p></td>
+<td class="tr16 td54"><p class="p5 ft3"> </p></td>
+<td class="tr16 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr21 td118"><p class="p5 ft3"> </p></td>
+<td class="tr21 td490"><p class="p5 ft3"> </p></td>
+<td class="tr21 td62"><p class="p5 ft3"> </p></td>
+<td class="tr23 td3213" colspan="3" rowspan="2"><p class="p57 ft7">IngineriaProg</p></td>
+<td class="tr23 td3356" colspan="3" rowspan="2"><p class="p178 ft7">CalculNumeric</p></td>
+<td class="tr23 td3227" colspan="3" rowspan="2"><p class="p36 ft7">TehCompilare</p></td>
+<td class="tr22 td3357"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3358"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3359"><p class="p21 ft9">214</p></td>
+<td class="tr21 td54"><p class="p5 ft3"> </p></td>
+<td class="tr21 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr18 td118"><p class="p5 ft19"> </p></td>
+<td class="tr18 td490"><p class="p5 ft19"> </p></td>
+<td class="tr18 td62"><p class="p5 ft19"> </p></td>
+<td class="tr18 td111"><p class="p5 ft19"> </p></td>
+<td class="tr18 td109"><p class="p5 ft19"> </p></td>
+<td class="tr18 td2563"><p class="p5 ft19"> </p></td>
+<td class="tr18 td54"><p class="p5 ft19"> </p></td>
+<td class="tr18 td303"><p class="p5 ft19"> </p></td>
+</tr>
+<tr>
+<td class="tr21 td118"><p class="p5 ft3"> </p></td>
+<td class="tr21 td490"><p class="p5 ft3"> </p></td>
+<td class="tr21 td62"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3218"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3167"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3106"><p class="p5 ft3"> </p></td>
+<td class="tr22 td1587"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3360"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3361"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3222"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3223"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3224"><p class="p5 ft3"> </p></td>
+<td class="tr21 td111"><p class="p5 ft3"> </p></td>
+<td class="tr21 td109"><p class="p5 ft3"> </p></td>
+<td class="tr21 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr22 td120"><p class="p5 ft3"> </p></td>
+<td class="tr22 td201"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr17 td205"><p class="p5 ft18"> </p></td>
+<td class="tr17 td118"><p class="p5 ft18"> </p></td>
+<td class="tr17 td490"><p class="p5 ft18"> </p></td>
+<td class="tr17 td62"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3228"><p class="p5 ft18"> </p></td>
+<td class="tr17 td2985"><p class="p5 ft18"> </p></td>
+<td class="tr2 td3117" rowspan="2"><p class="p21 ft9">3(Titeica)</p></td>
+<td class="tr17 td1590"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3354"><p class="p5 ft18"> </p></td>
+<td class="tr2 td3351" rowspan="2"><p class="p21 ft9">302A</p></td>
+<td class="tr17 td3052"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3027"><p class="p5 ft18"> </p></td>
+<td class="tr2 td2996" rowspan="2"><p class="p21 ft9">202</p></td>
+<td class="tr17 td111"><p class="p5 ft18"> </p></td>
+<td class="tr17 td109"><p class="p5 ft18"> </p></td>
+<td class="tr17 td2563"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3322"><p class="p47 ft22">Obretin C</p></td>
+<td class="tr17 td3323"><p class="p28 ft22">Gr 2</p></td>
+</tr>
+<tr>
+<td class="tr32 td205"><p class="p5 ft25"> </p></td>
+<td class="tr32 td118"><p class="p5 ft25"> </p></td>
+<td class="tr32 td490"><p class="p5 ft25"> </p></td>
+<td class="tr32 td62"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3228"><p class="p5 ft25"> </p></td>
+<td class="tr32 td2985"><p class="p5 ft25"> </p></td>
+<td class="tr32 td1590"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3354"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3052"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3027"><p class="p5 ft25"> </p></td>
+<td class="tr32 td111"><p class="p5 ft25"> </p></td>
+<td class="tr32 td109"><p class="p5 ft25"> </p></td>
+<td class="tr32 td2563"><p class="p5 ft25"> </p></td>
+<td class="tr24 td3306" rowspan="2"><p class="p47 ft16">Cript&amp;Securitate;</p></td>
+<td class="tr24 td3307" rowspan="2"><p class="p28 ft16">309</p></td>
+</tr>
+<tr>
+<td class="tr7 td199"><p class="p5 ft10"> </p></td>
+<td class="tr7 td475"><p class="p5 ft10"> </p></td>
+<td class="tr7 td476"><p class="p5 ft10"> </p></td>
+<td class="tr7 td24"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3230"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2988"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3121"><p class="p5 ft10"> </p></td>
+<td class="tr7 td1595"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3362"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3363"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3057"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3034"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2998"><p class="p5 ft10"> </p></td>
+<td class="tr7 td104"><p class="p5 ft10"> </p></td>
+<td class="tr7 td101"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2333"><p class="p5 ft10"> </p></td>
+</tr>
+<tr>
+<td class="tr17 td205"><p class="p5 ft18"> </p></td>
+<td class="tr5 td2979" colspan="3" rowspan="2"><p class="p52 ft7">Gramatovici R</p></td>
+<td class="tr17 td2729"><p class="p5 ft18"> </p></td>
+<td class="tr17 td59"><p class="p5 ft18"> </p></td>
+<td class="tr17 td184"><p class="p5 ft18"> </p></td>
+<td class="tr5 td3231" colspan="2" rowspan="2"><p class="p52 ft7">Patriche M</p></td>
+<td class="tr17 td3364"><p class="p5 ft18"> </p></td>
+<td class="tr17 td184"><p class="p5 ft18"> </p></td>
+<td class="tr17 td1227"><p class="p5 ft18"> </p></td>
+<td class="tr17 td2563"><p class="p5 ft18"> </p></td>
+<td class="tr5 td3242" colspan="2" rowspan="2"><p class="p52 ft7">Georgescu Gi</p></td>
+<td class="tr17 td2996"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3322"><p class="p47 ft22">Obretin C</p></td>
+<td class="tr17 td3323"><p class="p28 ft22">Gr 1</p></td>
+</tr>
+<tr>
+<td class="tr20 td205"><p class="p5 ft20"> </p></td>
+<td class="tr20 td2729"><p class="p5 ft20"> </p></td>
+<td class="tr20 td59"><p class="p5 ft20"> </p></td>
+<td class="tr20 td184"><p class="p5 ft20"> </p></td>
+<td class="tr20 td3364"><p class="p5 ft20"> </p></td>
+<td class="tr20 td184"><p class="p5 ft20"> </p></td>
+<td class="tr20 td1227"><p class="p5 ft20"> </p></td>
+<td class="tr20 td2563"><p class="p5 ft20"> </p></td>
+<td class="tr20 td2996"><p class="p5 ft20"> </p></td>
+<td class="tr24 td3306" rowspan="2"><p class="p47 ft16">Cript&amp;Securitate;</p></td>
+<td class="tr24 td3307" rowspan="2"><p class="p28 ft16">309</p></td>
+</tr>
+<tr>
+<td class="tr17 td205"><p class="p5 ft18"> </p></td>
+<td class="tr18 td2999"><p class="p5 ft19"> </p></td>
+<td class="tr18 td3000"><p class="p5 ft19"> </p></td>
+<td class="tr18 td3046"><p class="p5 ft19"> </p></td>
+<td class="tr17 td2729"><p class="p5 ft18"> </p></td>
+<td class="tr17 td59"><p class="p5 ft18"> </p></td>
+<td class="tr17 td184"><p class="p5 ft18"> </p></td>
+<td class="tr18 td3324"><p class="p5 ft19"> </p></td>
+<td class="tr18 td3365"><p class="p5 ft19"> </p></td>
+<td class="tr18 td3366"><p class="p5 ft19"> </p></td>
+<td class="tr17 td184"><p class="p5 ft18"> </p></td>
+<td class="tr17 td1227"><p class="p5 ft18"> </p></td>
+<td class="tr17 td2563"><p class="p5 ft18"> </p></td>
+<td class="tr24 td3249" colspan="3" rowspan="2"><p class="p53 ft9">TehCompilare</p></td>
+</tr>
+<tr>
+<td class="tr43 td205" rowspan="3"><p class="p23 ft8">Ma</p></td>
+<td class="tr15 td2984"><p class="p5 ft17"> </p></td>
+<td class="tr15 td3004"><p class="p5 ft17"> </p></td>
+<td class="tr15 td3048"><p class="p5 ft17"> </p></td>
+<td class="tr15 td2729"><p class="p5 ft17"> </p></td>
+<td class="tr15 td59"><p class="p5 ft17"> </p></td>
+<td class="tr15 td184"><p class="p5 ft17"> </p></td>
+<td class="tr15 td3245"><p class="p5 ft17"> </p></td>
+<td class="tr15 td3246"><p class="p5 ft17"> </p></td>
+<td class="tr15 td3364"><p class="p5 ft17"> </p></td>
+<td class="tr15 td184"><p class="p5 ft17"> </p></td>
+<td class="tr15 td1227"><p class="p5 ft17"> </p></td>
+<td class="tr15 td2563"><p class="p5 ft17"> </p></td>
+<td class="tr15 td54"><p class="p5 ft17"> </p></td>
+<td class="tr15 td303"><p class="p5 ft17"> </p></td>
+</tr>
+<tr>
+<td class="tr77 td2979" colspan="3" rowspan="2"><p class="p42 ft7">IngineriaProg</p></td>
+<td class="tr30 td2729"><p class="p5 ft3"> </p></td>
+<td class="tr30 td59"><p class="p5 ft3"> </p></td>
+<td class="tr30 td184"><p class="p5 ft3"> </p></td>
+<td class="tr77 td3367" colspan="3" rowspan="2"><p class="p178 ft7">TehOptimizare</p></td>
+<td class="tr30 td184"><p class="p5 ft3"> </p></td>
+<td class="tr30 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr30 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr21 td3222"><p class="p5 ft3"> </p></td>
+<td class="tr21 td3368"><p class="p5 ft3"> </p></td>
+<td class="tr21 td3224"><p class="p28 ft9">9</p></td>
+<td class="tr30 td54"><p class="p5 ft3"> </p></td>
+<td class="tr30 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr5 td3369" colspan="3"><p class="p16 ft7">Patriche M</p></td>
+<td class="tr22 td184"><p class="p5 ft3"> </p></td>
+<td class="tr22 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr22 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr5 td94"><p class="p5 ft3"> </p></td>
+<td class="tr5 td91"><p class="p5 ft3"> </p></td>
+<td class="tr5 td2330"><p class="p5 ft3"> </p></td>
+<td class="tr22 td54"><p class="p5 ft3"> </p></td>
+<td class="tr22 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr5 td205"><p class="p5 ft3"> </p></td>
+<td class="tr5 td2984"><p class="p5 ft3"> </p></td>
+<td class="tr36 td3243" colspan="2" rowspan="2"><p class="p5 ft9">2(Pompeiu)</p></td>
+<td class="tr5 td3370" colspan="3"><p class="p57 ft7">TehOptimizare</p></td>
+<td class="tr5 td3245"><p class="p5 ft3"> </p></td>
+<td class="tr5 td3246"><p class="p5 ft3"> </p></td>
+<td class="tr36 td3371" rowspan="2"><p class="p28 ft9">220</p></td>
+<td class="tr5 td184"><p class="p5 ft3"> </p></td>
+<td class="tr5 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr5 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr5 td111"><p class="p5 ft3"> </p></td>
+<td class="tr5 td109"><p class="p5 ft3"> </p></td>
+<td class="tr5 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr5 td54"><p class="p5 ft3"> </p></td>
+<td class="tr5 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr22 td199"><p class="p5 ft3"> </p></td>
+<td class="tr22 td2987"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3372"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3373" colspan="2"><p class="p21 ft9">201</p></td>
+<td class="tr22 td3252"><p class="p5 ft3"> </p></td>
+<td class="tr22 td3253"><p class="p5 ft3"> </p></td>
+<td class="tr22 td102"><p class="p5 ft3"> </p></td>
+<td class="tr22 td1244"><p class="p5 ft3"> </p></td>
+<td class="tr22 td2333"><p class="p5 ft3"> </p></td>
+<td class="tr22 td104"><p class="p5 ft3"> </p></td>
+<td class="tr22 td101"><p class="p5 ft3"> </p></td>
+<td class="tr22 td2333"><p class="p5 ft3"> </p></td>
+<td class="tr22 td120"><p class="p5 ft3"> </p></td>
+<td class="tr22 td201"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr8 td205"><p class="p57 ft8">Mi</p></td>
+<td class="tr8 td118"><p class="p5 ft3"> </p></td>
+<td class="tr8 td490"><p class="p5 ft3"> </p></td>
+<td class="tr8 td62"><p class="p5 ft3"> </p></td>
+<td class="tr8 td2729"><p class="p5 ft3"> </p></td>
+<td class="tr8 td550"><p class="p5 ft3"> </p></td>
+<td class="tr8 td184"><p class="p5 ft3"> </p></td>
+<td class="tr8 td184"><p class="p5 ft3"> </p></td>
+<td class="tr8 td3225"><p class="p5 ft3"> </p></td>
+<td class="tr8 td3374"><p class="p5 ft3"> </p></td>
+<td class="tr8 td184"><p class="p5 ft3"> </p></td>
+<td class="tr8 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr8 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr8 td184"><p class="p5 ft3"> </p></td>
+<td class="tr8 td109"><p class="p5 ft3"> </p></td>
+<td class="tr8 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr8 td122"><p class="p5 ft3"> </p></td>
+<td class="tr8 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr46 td199"><p class="p5 ft3"> </p></td>
+<td class="tr46 td475"><p class="p5 ft3"> </p></td>
+<td class="tr46 td476"><p class="p5 ft3"> </p></td>
+<td class="tr46 td24"><p class="p5 ft3"> </p></td>
+<td class="tr46 td2667"><p class="p5 ft3"> </p></td>
+<td class="tr46 td21"><p class="p5 ft3"> </p></td>
+<td class="tr46 td102"><p class="p5 ft3"> </p></td>
+<td class="tr46 td102"><p class="p5 ft3"> </p></td>
+<td class="tr46 td2777"><p class="p5 ft3"> </p></td>
+<td class="tr46 td2778"><p class="p5 ft3"> </p></td>
+<td class="tr46 td102"><p class="p5 ft3"> </p></td>
+<td class="tr46 td1244"><p class="p5 ft3"> </p></td>
+<td class="tr46 td2333"><p class="p5 ft3"> </p></td>
+<td class="tr46 td102"><p class="p5 ft3"> </p></td>
+<td class="tr46 td101"><p class="p5 ft3"> </p></td>
+<td class="tr46 td2333"><p class="p5 ft3"> </p></td>
+<td class="tr46 td15"><p class="p5 ft3"> </p></td>
+<td class="tr46 td201"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr17 td205"><p class="p5 ft18"> </p></td>
+<td class="tr2 td3257" colspan="3" rowspan="2"><p class="p52 ft7">Prunescu M</p></td>
+<td class="tr2 td3258" rowspan="2"><p class="p16 ft7">Pascan R</p></td>
+<td class="tr17 td3259"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3375"><p class="p5 ft18"> </p></td>
+<td class="tr17 td3376" colspan="2"><p class="p52 ft22">Dragulici D</p></td>
+<td class="tr17 td3377"><p class="p28 ft22">Gr 1</p></td>
+<td class="tr17 td184"><p class="p5 ft18"> </p></td>
+<td class="tr17 td1227"><p class="p5 ft18"> </p></td>
+<td class="tr17 td2563"><p class="p5 ft18"> </p></td>
+<td class="tr17 td184"><p class="p5 ft18"> </p></td>
+<td class="tr17 td109"><p class="p5 ft18"> </p></td>
+<td class="tr17 td2563"><p class="p5 ft18"> </p></td>
+<td class="tr17 td122"><p class="p5 ft18"> </p></td>
+<td class="tr17 td303"><p class="p5 ft18"> </p></td>
+</tr>
+<tr>
+<td class="tr32 td205"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3259"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3375"><p class="p5 ft25"> </p></td>
+<td class="tr16 td3378" colspan="2" rowspan="2"><p class="p52 ft16">TehCompilare</p></td>
+<td class="tr16 td3379" rowspan="2"><p class="p28 ft16">221A</p></td>
+<td class="tr32 td184"><p class="p5 ft25"> </p></td>
+<td class="tr32 td1227"><p class="p5 ft25"> </p></td>
+<td class="tr32 td2563"><p class="p5 ft25"> </p></td>
+<td class="tr32 td184"><p class="p5 ft25"> </p></td>
+<td class="tr32 td109"><p class="p5 ft25"> </p></td>
+<td class="tr32 td2563"><p class="p5 ft25"> </p></td>
+<td class="tr32 td122"><p class="p5 ft25"> </p></td>
+<td class="tr32 td303"><p class="p5 ft25"> </p></td>
+</tr>
+<tr>
+<td class="tr7 td205"><p class="p5 ft10"> </p></td>
+<td class="tr13 td3265"><p class="p5 ft14"> </p></td>
+<td class="tr13 td3266"><p class="p5 ft14"> </p></td>
+<td class="tr13 td3267"><p class="p5 ft14"> </p></td>
+<td class="tr13 td3268"><p class="p5 ft14"> </p></td>
+<td class="tr13 td3269"><p class="p5 ft14"> </p></td>
+<td class="tr13 td3380"><p class="p5 ft14"> </p></td>
+<td class="tr7 td184"><p class="p5 ft10"> </p></td>
+<td class="tr7 td1227"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2563"><p class="p5 ft10"> </p></td>
+<td class="tr7 td184"><p class="p5 ft10"> </p></td>
+<td class="tr7 td109"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2563"><p class="p5 ft10"> </p></td>
+<td class="tr7 td122"><p class="p5 ft10"> </p></td>
+<td class="tr7 td303"><p class="p5 ft10"> </p></td>
+</tr>
+<tr>
+<td class="tr34 td205"><p class="p50 ft8">Jo</p></td>
+<td class="tr42 td3275" colspan="3"><p class="p92 ft7">Cript&amp;Securitate;</p></td>
+<td class="tr42 td3276" colspan="3"><p class="p137 ft7">CalculNumeric</p></td>
+<td class="tr42 td104"><p class="p5 ft3"> </p></td>
+<td class="tr42 td2777"><p class="p5 ft3"> </p></td>
+<td class="tr42 td2778"><p class="p5 ft3"> </p></td>
+<td class="tr34 td184"><p class="p5 ft3"> </p></td>
+<td class="tr34 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr34 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr34 td184"><p class="p5 ft3"> </p></td>
+<td class="tr34 td109"><p class="p5 ft3"> </p></td>
+<td class="tr34 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr34 td122"><p class="p5 ft3"> </p></td>
+<td class="tr34 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr14 td205"><p class="p5 ft15"> </p></td>
+<td class="tr14 td3278"><p class="p5 ft15"> </p></td>
+<td class="tr29 td3279" colspan="2" rowspan="2"><p class="p5 ft9">2(Pompeiu)</p></td>
+<td class="tr14 td3258"><p class="p5 ft15"> </p></td>
+<td class="tr29 td3381" colspan="2" rowspan="2"><p class="p21 ft9">2(Pompeiu)</p></td>
+<td class="tr14 td3376" colspan="2"><p class="p52 ft16">Dragulici D</p></td>
+<td class="tr14 td3377"><p class="p28 ft16">Gr 2</p></td>
+<td class="tr14 td184"><p class="p5 ft15"> </p></td>
+<td class="tr14 td1227"><p class="p5 ft15"> </p></td>
+<td class="tr14 td2563"><p class="p5 ft15"> </p></td>
+<td class="tr14 td184"><p class="p5 ft15"> </p></td>
+<td class="tr14 td109"><p class="p5 ft15"> </p></td>
+<td class="tr14 td2563"><p class="p5 ft15"> </p></td>
+<td class="tr14 td122"><p class="p5 ft15"> </p></td>
+<td class="tr14 td303"><p class="p5 ft15"> </p></td>
+</tr>
+<tr>
+<td class="tr32 td205"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3278"><p class="p5 ft25"> </p></td>
+<td class="tr32 td3258"><p class="p5 ft25"> </p></td>
+<td class="tr24 td3378" colspan="2" rowspan="2"><p class="p52 ft16">TehCompilare</p></td>
+<td class="tr24 td3379" rowspan="2"><p class="p28 ft16">221A</p></td>
+<td class="tr32 td184"><p class="p5 ft25"> </p></td>
+<td class="tr32 td1227"><p class="p5 ft25"> </p></td>
+<td class="tr32 td2563"><p class="p5 ft25"> </p></td>
+<td class="tr32 td184"><p class="p5 ft25"> </p></td>
+<td class="tr32 td109"><p class="p5 ft25"> </p></td>
+<td class="tr32 td2563"><p class="p5 ft25"> </p></td>
+<td class="tr32 td122"><p class="p5 ft25"> </p></td>
+<td class="tr32 td303"><p class="p5 ft25"> </p></td>
+</tr>
+<tr>
+<td class="tr7 td199"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3282"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3283"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3284"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3285"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3286"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3382"><p class="p5 ft10"> </p></td>
+<td class="tr7 td102"><p class="p5 ft10"> </p></td>
+<td class="tr7 td1244"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2333"><p class="p5 ft10"> </p></td>
+<td class="tr7 td102"><p class="p5 ft10"> </p></td>
+<td class="tr7 td101"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2333"><p class="p5 ft10"> </p></td>
+<td class="tr7 td15"><p class="p5 ft10"> </p></td>
+<td class="tr7 td201"><p class="p5 ft10"> </p></td>
+</tr>
+<tr>
+<td class="tr3 td205" rowspan="2"><p class="p57 ft8">Vi</p></td>
+<td class="tr2 td118"><p class="p5 ft3"> </p></td>
+<td class="tr2 td490"><p class="p5 ft3"> </p></td>
+<td class="tr2 td62"><p class="p5 ft3"> </p></td>
+<td class="tr2 td2729"><p class="p5 ft3"> </p></td>
+<td class="tr2 td550"><p class="p5 ft3"> </p></td>
+<td class="tr2 td184"><p class="p5 ft3"> </p></td>
+<td class="tr2 td184"><p class="p5 ft3"> </p></td>
+<td class="tr2 td3225"><p class="p5 ft3"> </p></td>
+<td class="tr2 td3374"><p class="p5 ft3"> </p></td>
+<td class="tr2 td184"><p class="p5 ft3"> </p></td>
+<td class="tr2 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr2 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr2 td3383" colspan="2"><p class="p52 ft7">Benegui C</p></td>
+<td class="tr2 td3384"><p class="p5 ft3"> </p></td>
+<td class="tr2 td122"><p class="p5 ft3"> </p></td>
+<td class="tr2 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr10 td118"><p class="p5 ft3"> </p></td>
+<td class="tr10 td490"><p class="p5 ft3"> </p></td>
+<td class="tr10 td62"><p class="p5 ft3"> </p></td>
+<td class="tr10 td2729"><p class="p5 ft3"> </p></td>
+<td class="tr10 td550"><p class="p5 ft3"> </p></td>
+<td class="tr10 td184"><p class="p5 ft3"> </p></td>
+<td class="tr10 td184"><p class="p5 ft3"> </p></td>
+<td class="tr10 td3225"><p class="p5 ft3"> </p></td>
+<td class="tr10 td3374"><p class="p5 ft3"> </p></td>
+<td class="tr10 td184"><p class="p5 ft3"> </p></td>
+<td class="tr10 td1227"><p class="p5 ft3"> </p></td>
+<td class="tr10 td2563"><p class="p5 ft3"> </p></td>
+<td class="tr4 td3385" colspan="3" rowspan="2"><p class="p42 ft7">IngineriaProg</p></td>
+<td class="tr10 td122"><p class="p5 ft3"> </p></td>
+<td class="tr10 td303"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr7 td205"><p class="p5 ft10"> </p></td>
+<td class="tr7 td118"><p class="p5 ft10"> </p></td>
+<td class="tr7 td490"><p class="p5 ft10"> </p></td>
+<td class="tr7 td62"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2729"><p class="p5 ft10"> </p></td>
+<td class="tr7 td550"><p class="p5 ft10"> </p></td>
+<td class="tr7 td184"><p class="p5 ft10"> </p></td>
+<td class="tr7 td184"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3225"><p class="p5 ft10"> </p></td>
+<td class="tr7 td3374"><p class="p5 ft10"> </p></td>
+<td class="tr7 td184"><p class="p5 ft10"> </p></td>
+<td class="tr7 td1227"><p class="p5 ft10"> </p></td>
+<td class="tr7 td2563"><p class="p5 ft10"> </p></td>
+<td class="tr7 td122"><p class="p5 ft10"> </p></td>
+<td class="tr7 td303"><p class="p5 ft10"> </p></td>
+</tr>
+<tr>
+<td class="tr43 td199"><p class="p5 ft3"> </p></td>
+<td class="tr43 td475"><p class="p5 ft3"> </p></td>
+<td class="tr43 td476"><p class="p5 ft3"> </p></td>
+<td class="tr43 td24"><p class="p5 ft3"> </p></td>
+<td class="tr43 td2667"><p class="p5 ft3"> </p></td>
+<td class="tr43 td21"><p class="p5 ft3"> </p></td>
+<td class="tr43 td102"><p class="p5 ft3"> </p></td>
+<td class="tr43 td102"><p class="p5 ft3"> </p></td>
+<td class="tr43 td2777"><p class="p5 ft3"> </p></td>
+<td class="tr43 td2778"><p class="p5 ft3"> </p></td>
+<td class="tr43 td102"><p class="p5 ft3"> </p></td>
+<td class="tr43 td1244"><p class="p5 ft3"> </p></td>
+<td class="tr43 td2333"><p class="p5 ft3"> </p></td>
+<td class="tr43 td1865"><p class="p5 ft3"> </p></td>
+<td class="tr43 td3386"><p class="p5 ft3"> </p></td>
+<td class="tr43 td3387"><p class="p5 ft3"> </p></td>
+<td class="tr43 td15"><p class="p5 ft3"> </p></td>
+<td class="tr43 td201"><p class="p5 ft3"> </p></td>
+</tr>
+<tr>
+<td class="tr11 td3060" colspan="2"><p class="p5 ft1">Orar generat:27.03.2017</p></td>
+<td class="tr11 td115"><p class="p5 ft12"> </p></td>
+<td class="tr11 td62"><p class="p5 ft12"> </p></td>
+<td class="tr11 td58"><p class="p5 ft12"> </p></td>
+<td class="tr11 td59"><p class="p5 ft12"> </p></td>
+<td class="tr11 td111"><p class="p5 ft12"> </p></td>
+<td class="tr11 td111"><p class="p5 ft12"> </p></td>
+<td class="tr11 td3225"><p class="p5 ft12"> </p></td>
+<td class="tr11 td881"><p class="p5 ft12"> </p></td>
+<td class="tr11 td111"><p class="p5 ft12"> </p></td>
+<td class="tr11 td1227"><p class="p5 ft12"> </p></td>
+<td class="tr11 td1189"><p class="p5 ft12"> </p></td>
+<td class="tr11 td111"><p class="p5 ft12"> </p></td>
+<td class="tr11 td109"><p class="p5 ft12"> </p></td>
+<td class="tr11 td1189"><p class="p5 ft12"> </p></td>
+<td class="tr11 td54"><p class="p5 ft12"> </p></td>
+<td class="tr11 td62"><p class="p7 ft1">aSc Orare</p></td>
+</tr>
+</table>

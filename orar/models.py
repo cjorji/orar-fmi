@@ -15,14 +15,14 @@ class Profesor(models.Model):
 
 
 class Serie(models.Model):
-    numar_serie = models.IntegerField()
+    numar_serie = models.IntegerField(unique=True)
 
     def __unicode__(self):
         return str(self.numar_serie)
 
 
 class Grupa(models.Model):
-    numar = models.IntegerField()
+    numar = models.IntegerField(unique=True)
     serie = models.ForeignKey(Serie,blank=True, null=True)
 
     def __unicode__(self):
@@ -30,10 +30,11 @@ class Grupa(models.Model):
 
 
 class Room(models.Model):
-    room_number = models.IntegerField()
+    room_number = models.IntegerField(unique=True)
 
     def __unicode__(self):
         return str(self.room_number)
+
 
 
 class Event(models.Model):
@@ -47,6 +48,13 @@ class Event(models.Model):
         (7, 'Duminica'),
     )
 
+    week_type = (
+
+        (1, 'Saptamana Para'),
+        (2, 'Saptamana Imapara'),
+    )
+
+
     day = models.IntegerField(choices=MY_CHOICES, default=1)
     start_hour = models.CharField(default='8:00',max_length=5)
     end_hour = models.CharField(default='10:00',max_length=5)
@@ -55,6 +63,8 @@ class Event(models.Model):
     grupa = models.ForeignKey(Grupa, blank=True, null=True)
     serie = models.ForeignKey(Serie,blank=True, null=True)
     sala = models.ForeignKey(Room, blank=True, null=True)
+    weekly = models.BooleanField(default=True)
+    tip_saptamana = models.IntegerField(choices=week_type,blank=True,null=True)
 
     def __unicode__(self):
         return self.title
