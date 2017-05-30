@@ -16,9 +16,9 @@ Se va clona intr-un folder usor de accesat:
 git clone https://github.com/cjorji/orar-fmi.git
 ```
 
-## Rlarea testelor
+## Rularea testelor
 
-Testele automate implementate se pot rula cu 
+Testele automate implementate se pot rula cu:
 
 ```
 python manage.py test
